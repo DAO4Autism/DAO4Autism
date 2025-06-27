@@ -1,46 +1,54 @@
-# DAO4Autism
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DAO4Autism</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>DAO4Autism</h1>
+    <p>Supporting Neurodiverse Parenting Through Web3</p>
+  </header>
 
-> “While many platforms focus on autistic children — who supports the parents?”
+  <main>
+    <section>
+      <h2>🌱 Our Mission</h2>
+      <p>
+        DAO4Autism is a storytelling-based Web3 project that emotionally supports parents of neurodiverse children through anonymous sharing, digital ownership, and decentralized care tools.
+      </p>
+    </section>
 
-DAO4Autism is a public-good storytelling project designed to support **the emotional well-being of parents and caregivers of neurodiverse children** using the decentralized tools of Web3.
+    <section>
+      <h2>📖 Stories Gallery</h2>
+      <ul>
+        <li><a href="https://mirror.xyz/0x68A07Dd4F6b4ab145d6B4338C01A104c2c3b0716" target="_blank">A Moment of Silence</a></li>
+        <li><a href="https://mirror.xyz/0x68A07Dd4F6b4ab145d6B4338C01A104c2c3b0716" target="_blank">He Said ‘I Love You’, and I Froze</a></li>
+        <!-- Add more as you publish -->
+      </ul>
+    </section>
 
-Most autism-focused platforms in Web2 offer valuable clinical or educational resources for children. But the **emotional burnout, loneliness, and identity loss** experienced by parents often goes unspoken — especially in digital spaces.
+    <section>
+      <h2>🧡 Support Us</h2>
+      <p>If this project speaks to you, here’s how you can help:</p>
+      <ul>
+        <li>🔁 Share our stories on <a href="https://x.com/DAO4Autism" target="_blank">Twitter/X</a></li>
+        <li>🤝 Connect with us on <a href="https://mirror.xyz/0x68A07Dd4F6b4ab145d6B4338C01A104c2c3b0716" target="_blank">Mirror.xyz</a></li>
+        <li>💬 Join our early conversations on Reddit, Farcaster, or Discord (coming soon)</li>
+        <li>💙 Donate or fund future stories (via Gitcoin Grants – launching soon)</li>
+      </ul>
+    </section>
 
-We believe Web3 can offer something new:
-- Anonymity without stigma  
-- Ownership of one’s story  
-- A decentralized, durable space for emotional truth  
-- Tools to fund, preserve, and share these narratives without platform risk
+    <section>
+      <h2>🔗 Connect</h2>
+      <p><a href="https://x.com/DAO4Autism" target="_blank">Follow us on Twitter</a></p>
+      <p><a href="https://github.com/DAO4Autism/DAO4Autism">Visit the GitHub Project</a></p>
+    </section>
+  </main>
 
----
-
-## 🌱 Our Vision
-
-To build a safe and supportive progressive web app (PWA) where:
-- Parents can share emotional reflections anonymously  
-- Lived experiences become digital public goods  
-- A future community of support can grow around empathy, not algorithms
-
----
-
-## 📚 Resources (in progress)
-
-- [Mirror.xyz stories](https://mirror.xyz/0x68A07Dd4F6b4ab145d6B4338C01A104c2c3b0716)
-- [X / Twitter](https://x.com/DAO4Autism)
-- Gitcoin Grants (coming soon)
-
----
-
-## 🤝 You Are Not Alone
-
-If you're a:
-- Parent, carer, or ally feeling emotionally unseen  
-- Builder who believes care is a public good  
-- Web3 user who knows emotions matter too...
-
-You belong here.
-
-This is a seed for a new kind of support system — one rooted in care, not clicks.
-
----
-
+  <footer>
+    <p>&copy; 2025 DAO4Autism – A Digital Home for Neurodiverse Parents</p>
+  </footer>
+</body>
+</html>

@@ -34,7 +34,7 @@ Because we believe the future of care isn’t about virality or visibility — i
 
 ## 📚 Resources
 
-- Mirror Blog (emotional narratives): [Coming Soon]
+- Mirror Blog (emotional narratives):  https://mirror.xyz/0x68A07Dd4F6b4ab145d6B4338C01A104c2c3b0716
 - Gitcoin Grant: [Coming Soon]
 - Twitter/X: [@DAO4Autism](https://x.com/DAO4Autism)
 
